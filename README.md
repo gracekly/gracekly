@@ -21,9 +21,7 @@
    <a href="mailto0:gracekly5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
  </div>
 
- <br>
 
-   ![Snake animation](https://github.com/artur-debv/gracekly/blob/output/github-contribution-grid-snake-dark.svg)
 
  
 
