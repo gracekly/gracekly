@@ -23,7 +23,7 @@
 
  <br>
 
- ![Snake animation]("https://github.com/gracekly")
+ ![Snake animation](https://github.com/gracekly)
 
  
 
