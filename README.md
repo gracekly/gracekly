@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Grace Kelly
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **HTML e CSS**
 - ⚡ Fun fact: I love learning and reading
 
   <br>
