@@ -1,31 +1,40 @@
-### Hi there 👋
-## I'm Grace Kelly
 
-- 🌱 I’m currently learning **HTML e CSS**
-- ⚡ Fun fact: I love learning and reading
 
-  <br>
+#  <span style="color:#FCA7C4">Grace Kelly</span>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://i.pinimg.com/originals/1e/6d/5a/1e6d5a3a483d9d616e94719eabc75edc.jpg">
 
-<div>
-  <a href="https://github.com/gracekly">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gracekly&show_icons=true&theme=radical">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracekly&show_icons=true&theme=radical&layout=compact">
-</div>
+ ### Olá! 👋
+
+
+
+Sou estudante de Ciência da Computação e, atualmente, estou seguindo um projeto de aperfeiçoamento das minhas habilidades profissionais, com foco em desenvolvimento backend. Adquirir novos conhecimentos, para mim, é uma forma de diversão. Por isso, estou sempre engajada em atividades que cooperam com meu desenvolvimento.
+
+Sou apaixonada por tecnologia, leitura, sitcoms e pela natureza. 🩷
 
 <br>
 
 ##
-**Conect with me**
+<br>
+
+ 
+<div>
+  
+  <a href="https://github.com/gracekly">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gracekly&show_icons=true&theme=omni">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracekly&show_icons=true&theme=omni&layout=compact">
+</div>
+
+
+
+##
+<span style="color:#FCA7C4">**Que tal me conhecer um pouco mais?**</span>
  <div>
-   <a href="https://www.instagram.com/grac.ly" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
-   <a href="mailto:gracekly5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
-   <a href="https://www.linkedin.com/in/grace-santos-012b61203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/grac.ly" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23334?style=for-the-badge&logo=instagram&logoColor=FCA7CA" target"_blank"></a>
+   <a href="mailto:gracekbas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23334?style=for-the-badge&logo=gmail&logoColor=FCA7CA" target"_blank"></a>
+   <a href="https://www.linkedin.com/in/grace-santos-012b61203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23334?style=for-the-badge&logo=linkedin&logoColor=FCA7CA" target="_blank"></a>
  </div>
 
 
 
+
  
-
-
-
-
